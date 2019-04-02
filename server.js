@@ -165,7 +165,7 @@ var meteorite = function(city, callback){
             var c=Math.sqrt( a*a + b*b );
             if(c<min){
             min=c;
-            result=i;
+            result=i+1;
             }
             // console.log(i+'  '+locations[i][0]+' '+locations[i][1]+' + '+arr[1]+' = '+a+' ,  c:'+c+'  min:'+min);
           }
