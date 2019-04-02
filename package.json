@@ -1,0 +1,25 @@
+{
+  "name": "nasa",
+  "version": "1.0.0",
+  "description": "Simple Nasa chatbot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "fenohanta",
+  "license": "ISC",
+  "dependencies": {
+    "geocoder": "^0.2.3",
+    "jsonpath": "^1.0.1",
+    "node-geocoder": "^3.22.0",
+    "open": "^6.0.0",
+    "puppeteer": "^1.14.0",
+    "request": "^2.88.0",
+    "xregexp": "^3.1.1",
+    "yql": "^1.0.2"
+  }
+}
