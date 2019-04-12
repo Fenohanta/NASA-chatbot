@@ -5,7 +5,7 @@
 
 ![alt text](./images/nasa.png)
 
-🔨## How to use it
+## 🔨 How to use it
 
 Clone the repository to your desktop.
 Then:
@@ -16,7 +16,7 @@ node server.js
 ```
 The application is running on the console.
 
-🏃‍♀️#How it works
+# 🏃‍♀️ How it works
 
 It runs by recongnizing some patterns like "**hello**", "**where is the ISS now?**","**how many people are in space right now**" or **locating the nearest meteorit impact from a given location**.
 
